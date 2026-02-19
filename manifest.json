@@ -15,12 +15,14 @@
     {
       "src": "https://github.com/vicacedillojr/github.io-espesyal-/wicon-192.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "192x192",
+      "purpose": "maskable"
     },
     {
       "src": "https://github.com/vicacedillojr/github.io-espesyal-/wicon-512.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "512x512",
+      "purpose": "maskable"
     }
   ],
   "screenshots" : [
