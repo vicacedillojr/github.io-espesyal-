@@ -10,7 +10,6 @@
   "orientation": "portrait",
   "background_color": "#1A1035",
   "theme_color": "#1A1035",
-  "theme_color": "purple",
   "orientation": "portrait",
   "icons": [  
     {
@@ -24,6 +23,13 @@
       "sizes": "512x512"
     }
   ],
+  "screenshots" : [
+  {
+    "src": "https://github.githubassets.com/assets/app-icon-512-7f9c4ff2e960.png",
+    "sizes": "512x512",
+    "type": "image/png",
+  }
+]
   "prefer_related_applications": true,
   "related_applications": [
     {
